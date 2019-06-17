@@ -1,0 +1,25 @@
+{
+    "name": "quasar-v1-snippets",
+    "publisher": "SimonMosesOnazi",
+    "displayName": "quasar-v1-snippets",
+    "description": "Quasar v1 snippets helps you develope app in the quasar framework really fast, this snippets covers all components basic.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softchris/node-snippets.git"
+    }
+}
